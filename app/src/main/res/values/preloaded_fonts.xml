@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/anonymous_pro</item>
+        <item>@font/changa_one</item>
+        <item>@font/delius_unicase</item>
+        <item>@font/gruppo</item>
+        <item>@font/happy_monkey</item>
+        <item>@font/krona_one</item>
+        <item>@font/londrina_shadow</item>
+        <item>@font/montserrat_subrayada</item>
+    </array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginBottomReset">32dp</dimen>
+    <dimen name="margin10">10dp</dimen>
+    <dimen name="margin15">15dp</dimen>
+    <dimen name="imgWidth">50dp</dimen>
+    <dimen name="TeamScore">56sp</dimen>
+    <dimen name="padding24">24dp</dimen>
+    <dimen name="padding16">16dp</dimen>
+    <dimen name="margin5">5dp</dimen>
+    <dimen name="teamName">18sp</dimen>
+    <dimen name="margin20">20dp</dimen>
+    <dimen name="teamNameLand">18sp</dimen>
+</resources>
